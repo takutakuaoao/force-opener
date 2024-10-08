@@ -1,0 +1,16 @@
+{
+    "name": "takutakuaoao/force-opener",
+    "type": "library",
+    "license": "MIT",
+    "autoload": {
+        "psr-4": {
+            "Takutakuaoao\\ForceOpener\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "takuya.aotsuka"
+        }
+    ],
+    "require": {}
+}
