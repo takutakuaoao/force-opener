@@ -11,4 +11,5 @@ return $config
         'concat_space' => ['spacing' => 'one'],
         'function_typehint_space' => true,
         'binary_operator_spaces' => true,
+        'php_unit_method_casing' => ['case' => 'snake_case'],
     ]);
