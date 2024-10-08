@@ -9,7 +9,8 @@
     },
     "autoload-dev": {
         "psr-4": {
-            "Tests\\": "tests/"
+            "Tests\\Units\\": "tests/units",
+            "Tests\\Fixtures\\": "tests/_fixtures"
         }
     },
     "authors": [
