@@ -4,7 +4,12 @@
     "license": "MIT",
     "autoload": {
         "psr-4": {
-            "Takutakuaoao\\ForceOpener\\": "src/"
+            "ForceOpener\\": "src/"
+        }
+    },
+    "autoload-dev": {
+        "psr-4": {
+            "Tests\\": "tests/"
         }
     },
     "authors": [
